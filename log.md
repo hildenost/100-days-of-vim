@@ -9,8 +9,11 @@
 
 ### Key bindings used
 `h`-`j`-`k`-`l` left - down - up - right keys for moving the cursor
+
 `r`- `R` replacing 1 or more characters
+
 `x` deleting character under cursor
+
 `o` - `a` **o**pen new line or **a**ppend
 
 ### What hindered me?
