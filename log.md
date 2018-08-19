@@ -1,5 +1,13 @@
 # Log
 
+## Day 3: Sunday August 19 2018
+
+* Minor editing of this log file
+
+### Key bindings used
+* `cw` to rewrite word
+
+
 ## Day 2: Friday August 17 2018
 
 * Used vim as LaTeX editor almost entire work day
