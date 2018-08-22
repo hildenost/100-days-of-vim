@@ -1,5 +1,12 @@
 # Log
 
+## Day 4: Monday August 20 2018
+* Used `vim` as LaTeX editor entire work day
+
+### New key bindings
+* `dw` to delete word
+* `<N>``dd`/`yy` to delete/yank N lines
+
 ## Day 3: Sunday August 19 2018
 
 * Minor editing of this log file
