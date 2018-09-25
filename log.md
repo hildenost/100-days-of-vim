@@ -26,7 +26,7 @@ Nothing serious.
 I can start a repo later.
 
 So, I've since created the repo.
-It's called [browser-bridge](../browser-bridge/).
+It's called [browser-bridge](https://github.com/hildenost/browser-bridge/).
 
 Anyway, what I did tonight was that I set up my `.vimrc` file!
 I've set it up for `JavaScript` development in mind.
@@ -38,7 +38,7 @@ For now.
 
 ### New key bindings
 * `:XX,YYd/y` for selecting lines from `XX` to `YY` and deleting/yanking them
-I installed the `vimtex` plugin through `Vundle`
+* I installed the `vimtex` plugin through `Vundle`
 * `\ll` and `\lv` are `vimtex` commands to compile and view the document
 
 ## Day 4: Monday August 20 2018
