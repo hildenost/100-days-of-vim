@@ -33,6 +33,21 @@ I've set it up for `JavaScript` development in mind.
 For now.
 
 
+## Day 5: Tuesday August 21 2018
+* `vim` has become my main LaTeX editor already!
+
+### New key bindings
+* `:XX,YYd/y` for selecting lines from `XX` to `YY` and deleting/yanking them
+I installed the `vimtex` plugin through `Vundle`
+* `\ll` and `\lv` are `vimtex` commands to compile and view the document
+
+## Day 4: Monday August 20 2018
+* Used `vim` as LaTeX editor entire work day
+
+### New key bindings
+* `dw` to delete word
+* `<N>``dd`/`yy` to delete/yank N lines
+
 ## Day 3: Sunday August 19 2018
 
 * Minor editing of this log file
