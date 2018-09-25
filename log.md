@@ -1,5 +1,38 @@
 # Log
 
+## Day umpteenth: Tuesday September 25 2018
+I don't really do log editing, it seems.
+Meanwhile I have been finishing my PhD thesis, editing it in `vim` of course.
+So, technically, I *have* been doing at least 1 hour of `vim` every day, it's just that nobody knows.
+
+I've learnt a large bunch of new skills since then!
+I am safe to say that I will use `vim` from now on as my preferred editor.
+I will need to find a proper way to set up `python` and `C++`, but I'm sure the internet will help me.
+
+On that note, I've started a mini project.
+I aim to create some mini bridge example games in `JavaScript`.
+Progress came to a halt when I tried to install `prettier` to make everything pretty, and accidentally wiped out my game source file.
+Ah, no worries, you might say, you are using `git`!
+
+...
+
+Well.
+
+...
+
+I didn't use `git` --- yet.
+You know, since I was just familiarising myself with `JavaScript` and the game engine.
+Nothing serious.
+I can start a repo later.
+
+So, I've since created the repo.
+It's called [browser-bridge](../browser-bridge/).
+
+Anyway, what I did tonight was that I set up my `.vimrc` file!
+I've set it up for `JavaScript` development in mind.
+For now.
+
+
 ## Day 3: Sunday August 19 2018
 
 * Minor editing of this log file
@@ -21,7 +54,7 @@
 
 * `0` move to beginning of line
 
-Using the move commands with punctuation was really handy when dealing with 
+Using the move commands with punctuation was really handy when dealing with
 LaTeX commands and editing equations.
 
 * `/search/replace/gc` with the option flag `c` to verify every search result before replacing
